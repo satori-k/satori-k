@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## This is Satori.
+#### This is Satori.
 
-## One more time, let's begin together.
+#### One more time, let's begin together.
 
 <!--
 **satori-k/satori-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
